@@ -40,11 +40,6 @@
 	While I may not have extensive experience in the field, I am committed to honing my skills and expanding my knowledge to build robust, high-quality applications. I am dedicated to creating beautiful, user-friendly apps that will leave a lasting impression on users.
 </p>
 
-<h2>📈 GitHub Stats</h2>
-<div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=investintesla&theme=transparent" alt="stats graph"  />
-</div>
-
 <p align="left">
 	With a solid foundation in HTML, CSS, and JavaScript, I am currently focused on mastering React Native and TypeScript to build cutting-edge apps.
 	I am proficient in Figma and Photoshop, allowing me to bring my creative vision to life and streamline my development workflow.
@@ -55,9 +50,9 @@
 	I have worked on a variety of projects ranging from small one-page websites to large-scale Minecraft servers.
 	My experience has allowed me to develop a diverse skillset and adapt to various challenges.
 </p><br>
-<p align="center">	
+<h2 align="center">	
 	💻 Main Stack:
-</p>
+</h2>
 
 <div align="left">
 	<img height="24" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white">
@@ -73,9 +68,9 @@
 	<img height="10" src="https://img.shields.io/badge/Uber_Eats-5FB709?style=for-the-badge&logo=uber-eats&logoColor=white">
 <div><br><br>
 
-<p align="center">	
+<h3 align="center">	
 	💻 Programs/IDE I used:
-</p>
+</h3>
 
 <div align="left">
 	<img height="24" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
@@ -91,9 +86,9 @@
 	<img height="24" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 <div><br><br>
 
-<p align="center">
+<h4 align="center">
 	💻 Now mastering:
-</p>
+</h4>
 
 <div align="left">
 	<img height="24" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
@@ -108,6 +103,10 @@
 	  As a team player, I am open to feedback and critiques and always strive to grow and improve.
 	I am eager to work alongside experienced developers to gain practical experience and contribute to the success of your projects.
 </p>
+	
+<br><div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=investintesla&theme=transparent" alt="stats graph"  />
+</div><br>
 
 <p align="left">
 	🤝 Let's chat about how I can bring my enthusiasm and eagerness to learn to your team and help build innovative mobile and web apps together!
